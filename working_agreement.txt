@@ -1,0 +1,18 @@
+WORKING AGREEMENT
+
+Tener la empatia de saber que no siempre me puede conectar
+Hacer turnos de trabajo para que sea mas productivas
+Usar turno de palabra
+Seleccionar 2 personas que son las que tienen que picar código
+Ideas en el siguiente dailing
+Tener muy en cuenta el calendario de para fecha de entrega.
+Drive donde se puede compartir en power point
+Si quedamos fuera de horario de clase se hace a través de teams.
+
+3.2. Criterios de evaluación
+
+Crear la infraestructura necesaria: repositorio en GitHub y con acceso para todos los
+miembros del equipo.
+Crear según corresponda los juegos descritos por el cliente.
+Tener todos los juegos automatizados.
+Tener en el repositorio de GitHub todo el código del desarrollo del proyecto.
